@@ -6,4 +6,6 @@ I'm preparing for technical interviews by improving my coding skills and masteri
 
 This repository is where I'll document my progress, track my solutions, and reflect on my growth. Feel free to follow along or contribute!
 
+![](https://leetcard.jacoblin.cool/yose_14?theme=dark&font=Besley)
+
 Happy coding! 💻✨
