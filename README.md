@@ -13,3 +13,8 @@ Happy coding! 💻✨
 </p>
 
 
+## 🧠 Tips & Tricks
+
+- When working with a **2D matrix** of size \( m \times n \):
+  - **Row index**: \( \text{mid} / n \)
+  - **Column index**: \( \text{mid} \% n \)
