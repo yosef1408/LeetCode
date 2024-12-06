@@ -8,4 +8,6 @@ This repository is where I'll document my progress, track my solutions, and refl
 
 Happy coding! 💻✨
 
-![](https://leetcard.jacoblin.cool/yose_14?theme=dark&font=Besley)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yose_14?theme=dark&font=Besley" alt="LeetCode Card">
+</p>
