@@ -1,5 +1,9 @@
 class Solution {
     
+    /*
+        time complexity O( (nCK)*K) , space complexity O(K) - recusrive deep; 
+    */
+    
     void combine_Aux(vector<vector<int>>& result,int start,vector<int>comb,int n, int k)
     {
         if(comb.size() == k)
