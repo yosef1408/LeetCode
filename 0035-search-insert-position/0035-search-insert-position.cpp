@@ -33,8 +33,6 @@ public:
                 right = mid -1;
         }
         
-        if(mid > 0)
-            return n;
-        return (nums[0] < target)? 1:0;
+        return left;
     }
 };
