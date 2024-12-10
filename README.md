@@ -18,3 +18,7 @@ Happy coding! 💻✨
 - When working with a **2D matrix** of size \( m * n \):
   - **Row index**: \( {mid} / n \)
   - **Column index**: \( {mid} % n \)
+ 
+- Beware of Duplicates: Binary search can fail in rotated arrays with duplicates, as it's hard to determine the sorted half (e.g., [1, 1, 1, 1, 2, 1, 1, 1]).
+Alternative: Skip duplicate boundaries (start++ or end--), but this may degrade the time complexity to 
+𝑂(𝑛)
