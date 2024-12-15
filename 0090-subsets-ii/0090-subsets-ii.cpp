@@ -7,9 +7,6 @@ class Solution {
             return;
         
         unordered_map<int, bool> seen;
-        for (int i = 0; i < nums.size(); ++i) {
-            seen[nums[i]] = false;
-        }
 
         for(int i = start; i < nums.size(); i++){
             
