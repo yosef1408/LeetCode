@@ -6,16 +6,11 @@ class Solution {
             return;
         }
         
-        unordered_map<int,int> seen;
         
         for(int i=start ; i < nums.size();i++){
             
-            if(seen[nums[i]] > 0)
-                continue;
-            
             subset.push_back(nums[i]);
             res.push_back(subset);
-            seen[nums[i]]++;
             backtrack(res,nums,(i+1),subset);
             subset.pop_back();
         }
