@@ -21,6 +21,26 @@ class Solution {
     */
     
     
+void fixSwapped(vector<int>& arr) {
+    int n = arr.size();
+    int first = -1, second = -1;
+
+    // Find the two misplaced elements
+    for (int i = 0; i < n - 1; ++i) {
+        if (arr[i] > arr[i + 1]) {
+            if (first == -1) {
+                first = i; // First violation
+            }
+            second = i + 1; // Last violation (may update as we iterate)
+        }
+    }
+
+    // Swap the misplaced elements
+    if (first != -1 && second != -1) {
+        std::swap(arr[first], arr[second]);
+    }
+}
+    
     void inorderTravel(vector<int>& values,TreeNode* root){
         
         if(root == nullptr)
@@ -52,7 +72,7 @@ public:
         int uncorrectIndx1;
         int uncorrecIndx2;
         
-        sort(values.begin(),values.end());
+        fixSwapped(values);
     
         swap(values[uncorrectIndx1],values[uncorrecIndx2]);
         
