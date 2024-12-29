@@ -2,6 +2,8 @@
 
 Welcome to my coding journey! 
 
+Unfortunately, the Chrome extension I was using to automatically commit my solutions directly to Git is broken. Therefore, I'm sharing my LeetCode profile here: [https://leetcode.com/u/yose_14/](https://leetcode.com/u/yose_14/) to track my progress.
+
 I'm preparing for technical interviews by improving my coding skills and mastering algorithms. While I don't know exactly when the opportunity will come, I'm determined to be ready when it does.
 
 This repository is where I'll document my progress, track my solutions, and reflect on my growth. Feel free to follow along or contribute!
