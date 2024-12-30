@@ -2,9 +2,12 @@
 
 Welcome to my coding journey! 
 
-Unfortunately, the Chrome extension I was using to automatically commit my solutions directly to Git is broken. Therefore, I'm sharing my LeetCode profile here: [https://leetcode.com/u/yose_14/](https://leetcode.com/u/yose_14/) to track my progress.
+I’m on an exciting mission to prepare for technical interviews by improving my coding skills and mastering algorithms. While the perfect opportunity hasn’t come knocking yet, I’m determined to be ready when it does.
 
-I'm preparing for technical interviews by improving my coding skills and mastering algorithms. While I don't know exactly when the opportunity will come, I'm determined to be ready when it does.
+So far, I’ve solved 94 questions in C++, a language that holds a special place in my heart ❤️. From here on, I’ll keep solving medium-level problems in C++ while also exploring Python and JavaScript for simpler ones. It’s all part of my journey to becoming a more versatile programmer.
+
+A quick update: the Chrome extension I was using to commit my solutions directly to Git isn’t working anymore. To keep things on track, I’m sharing my LeetCode profile here: https://leetcode.com/u/yose_14/.
+
 
 This repository is where I'll document my progress, track my solutions, and reflect on my growth. Feel free to follow along or contribute!
 
